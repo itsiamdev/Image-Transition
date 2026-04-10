@@ -8,7 +8,7 @@ A sleek and interactive web tool for comparing two images side by side with a sm
 - **Lightweight**: Built with pure HTML, CSS, and JavaScript – no dependencies required 🚀.
 
 ## Demo 🔗
-Experience it live: [https://iam269.github.io/Image-Transition/](https://iam269.github.io/Image-Transition/)
+Experience it live: [https://itsiamdev.github.io/Image-Transition/](https://itsiamdev.github.io/Image-Transition/)
 
 ## How to Use 🛠️
 1. Open `index.html` in your web browser 🌐.
